@@ -18,7 +18,7 @@ This is a modern and visually attractive real estate landing page designed using
 
 ## 📁 Folder Structure
 
-real-estate-landing/ ├── index.html ├── style.css ├── script.js ├── images/ └── README.md
+real-estate-landing/ ├── index.html ├── style.css ├── script.js ├── images├── README.md
 
 ## 📌 How to Use
 
